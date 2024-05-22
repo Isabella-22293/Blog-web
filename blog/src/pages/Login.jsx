@@ -1,4 +1,3 @@
-import '@styles/login.css'
 import { useState } from 'react';
 import CryptoJS from 'crypto-js';
 
